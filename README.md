@@ -2,9 +2,12 @@
 
 Screw tilt configuration for the **Creality K2 Pro** running **Klipper firmware**.
 
+
 This repository provides a ready-to-use `screws_tilt_adjust` configuration for the 300×300 K2 Pro bed.
+
 Verified screw coordinates: 2026-03-17  
-Bed size: 300 x 300
+
+Bed size: 300 x 300 mm
 
 ---
 
