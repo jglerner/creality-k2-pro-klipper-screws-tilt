@@ -28,12 +28,14 @@ Klipper will report how much to turn each bed screw.
 
 ## Screw layout
 
-rear_left      rear_right  
-●-----------●  
-|           |  
-|           |  
-|           |  
-●-----------●  
-front_left    front_right
+```
+rear_left rear_right
+●---------------●
+|               |
+|               |
+|               |
+●---------------●
+front_right front_left
+```
 
 Based on a video in YouTube by          and adapted for Creality K2 Pro by Jacques Lerner
