@@ -1,7 +1,8 @@
 # Creality K2 Pro – Klipper Screws Tilt Adjust
 
-Configuration for screw leveling on the **Creality K2 Pro** running Klipper.
+Screw tilt configuration for the **Creality K2 Pro** running **Klipper firmware**.
 
+This repository provides a ready-to-use `screws_tilt_adjust` configuration for the 300×300 K2 Pro bed.
 Verified screw coordinates: 2026-03-17  
 Bed size: 300 x 300
 
@@ -53,4 +54,8 @@ front_left          front_right
 
 ## Credits
 
-Based on a YouTube video by and adapted for **Creality K2 Pro** by **Jacques Lerner**.
+Based on a YouTube video by  
+[@Jstech3d]([https://www.youtube.com/watch?v=2zIDn_PHbyQ]
+
+Configuration adapted from the **K2 Plus** to the **K2 Pro**
+by Jacques Lerner.
