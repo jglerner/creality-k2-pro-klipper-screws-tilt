@@ -58,7 +58,7 @@ front_left          front_right
 ## Credits
 
 Based on a YouTube video by  
-[@Jstech3d]  ([https://www.youtube.com/watch?v=2zIDn_PHbyQ]  who deserves all the credits.
+[@Jstech3d]  [https://www.youtube.com/watch?v=2zIDn_PHbyQ]  who deserves all the credits.
 
 Configuration adapted from the **K2 Plus** to the **K2 Pro**
 by Jacques Lerner.
