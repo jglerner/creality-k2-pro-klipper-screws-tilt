@@ -53,6 +53,15 @@ rear_left            rear_right
 front_left          front_right
 ```
 
+___
+
+Tested on:
+Klipper 0.12+
+Creality K2 Pro (300x300 bed)
+
+If you encounter probe-related errors, please ensure your
+Klipper installation is up to date.
+
 ---
 
 ## Credits
