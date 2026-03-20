@@ -62,6 +62,10 @@ Creality K2 Pro (300x300 bed)
 If you encounter probe-related errors, please ensure your
 Klipper installation is up to date.
 
+Note:
+Some Creality firmware builds ship with modified Klipper versions.
+If you encounter probe-related errors, please verify you are running
+a stable firmware release.
 ---
 
 ## Credits
