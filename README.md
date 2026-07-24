@@ -75,3 +75,7 @@ Based on a YouTube video by
 
 Configuration adapted from the **K2 Plus** to the **K2 Pro**
 by Jacques Lerner.
+
+---
+
+MIT License
